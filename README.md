@@ -48,7 +48,7 @@ Source: Public clinical trial registry data (CSV format)
 ![Trials by Phase](charts/total_number_of_trials_per_trial_phase.png)
 
 ### Average Enrollment by Phase
-![Average Enrollment](charts/average%20number%20enrollments%20per%20trial%20phase.png)
+![Average Enrollment](charts/charts/average_number_of_enrollments_per_trial.png)
 
 
 ---
