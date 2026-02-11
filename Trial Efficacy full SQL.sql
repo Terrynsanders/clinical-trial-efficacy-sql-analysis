@@ -1,3 +1,10 @@
+-- Database: SQLite
+-- Dataset: Clinical Trial Efficacy Results
+-- Author: Terryn Sanders
+-- Date: 2026
+
+--Queries--
+
 -- Count trials by phase--
 select 
 coalesce (trial_phase, 'unknown') as phase,
